@@ -11,3 +11,4 @@ The easiest way to get started is to download the repository :
 
 1. Run TemperatureConversion.API Project
 2. Run `ng serve` by opening temperature-conversion-portal in VS Code.
+3. By the time we run Angular project, Web API should be up and running.
